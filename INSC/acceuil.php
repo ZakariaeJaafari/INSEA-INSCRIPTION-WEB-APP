@@ -19,7 +19,7 @@
     <div class="container d.flex d-flex align-items-center h-100">
       <div class="row">
         <header class="text-center col-12">
-          <h1 class="text-uppercase"><strong>Zakariae JAAFARI Projet DEV WEB 2020</strong></h1>
+          <h1 class="text-uppercase"><strong>INSEA Projet DEV WEB 2020</strong></h1>
         </header>
         <div class="buffer"></div>
         <section class="text-center col-12">
