@@ -3,8 +3,8 @@
     
 
 require_once 'vendor/autoload.php';
-    define('EMAIL' , 'dzekroos@gmail.com');
-    define('PASSWORD', 'Thegeniuss98');
+    define('EMAIL' , '');
+    define('PASSWORD', '');
 
 // Create the Transport
 $transport = (new Swift_SmtpTransport('smtp.gmail.com', 465, 'ssl'))
